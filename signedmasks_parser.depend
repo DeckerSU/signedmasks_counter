@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1517447884 source:/home/decker/ssd/signedmasks_parser/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	<unistd.h>
+
